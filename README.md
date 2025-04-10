@@ -1,5 +1,6 @@
 # Boykisser PCB
 
+@junya
 A small hardware project with some basic parts, cut in the shape of a Boykisser :3
 
 ## BOM
