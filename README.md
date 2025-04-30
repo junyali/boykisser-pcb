@@ -2,6 +2,7 @@
 
 @junya
 A small hardware project with some basic parts, cut in the shape of a Boykisser :3
+PCB with a couple of clicky tactile buttons that lights up some LEDS.
 
 ## BOM
 
